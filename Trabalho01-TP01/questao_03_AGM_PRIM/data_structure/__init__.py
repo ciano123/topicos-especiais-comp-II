@@ -1,0 +1,3 @@
+from data_structure.arvore_AVL import AVLNode, AVLTree
+from data_structure.arvore_binaria import BinaryTree
+from data_structure.constroiGrafo import constroi_grafo_de_arquivo
